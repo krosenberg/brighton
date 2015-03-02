@@ -18,6 +18,7 @@ description: > # "Write an awesome description for your new site here.
 markdown: kramdown
 permalink: pretty
 
+host: 0.0.0.0
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
